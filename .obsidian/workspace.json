@@ -67,22 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 제로트러스트 환경의 소개/2.1 제로트러스트 도입 배경.md",
+                "file": "2. 제로트러스트 환경의 소개/2.2 제로트러스트 아키텍처 구성 요소.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 제로트러스트 도입 배경"
-            }
-          },
-          {
-            "id": "7d3465b5934e0b7c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2.2 제로트러스트 아키텍처 구성 요소"
             }
           }
         ],
@@ -140,7 +130,7 @@
             }
           },
           {
-            "id": "aab3042fa552b646",
+            "id": "105e4ba4e895a63f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -243,20 +233,30 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "publish:변경사항 게재": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d217da642029ffc6",
   "lastOpenFiles": [
+    "2. 제로트러스트 환경의 소개/2.2 제로트러스트 아키텍처 구성 요소.md",
+    "2. 제로트러스트 환경의 소개/2.3 제로트러스트 동향.md",
+    "2. 제로트러스트 환경의 소개/2.1 제로트러스트 도입 배경.md",
     "2. 제로트러스트 환경의 소개/2. 제로트러스트 개요.md",
+    "참고자료/제로트러스트동향분석및기업보안강화연구.md",
+    "참고자료/제로트러스트동향분석및기업보안강화연구.pdf",
+    "Pasted image 20250506230805.png",
+    "참고자료/Forrester_zero_trust_DNA.pdf",
+    "참고자료/NIST.SP.800-207.pdf",
+    "Pasted image 20250506230353.png",
+    "Pasted image 20250506230328.png",
+    "Pasted image 20250506230315.png",
+    "Pasted image 20250506230217.png",
     "1. 서론/1.1 연구의 배경 및 목적.md",
     "Vault.md",
-    "2. 제로트러스트 환경의 소개/2.3 제로트러스트 연구 동향.md",
     "desktop.ini",
-    "2. 제로트러스트 환경의 소개/2.2 제로트러스트 아키텍처 구성 요소.md",
     "1. 서론/1.2 연구의 범위 및 방법.md",
     "0. 제로트러스트 환경에 대한 정보보호대책의 수립/제로트러스트 환경에 대한 정보보호대책의 수립.md",
-    "2. 제로트러스트 환경의 소개/2.1 제로트러스트 도입 배경.md",
     "Tags",
     "2. 제로트러스트 환경의 소개/2.2 제로트러스트 개념 및 정의.md",
     "1. 서론/1. 서론.md",
@@ -275,15 +275,11 @@
     "5. 구현된 보호대책의 효과성 측정 방안/5.2 제로트러스트 침투 시험 (Penetration Testing) 활용.md",
     "5. 구현된 보호대책의 효과성 측정 방안/5.1 성숙도 모델 기반 평가 및 재평가.md",
     "4. 보안 전략 수립 및 보호대책 구현 방안/4.4 조직 내 역할 정의 및 인식 제고 활동.md",
-    "4. 보안 전략 수립 및 보호대책 구현 방안/4.3 제로트러스트 성숙도 모델 기반 보호대책 구현.md",
     "참고자료/제로트러스트 국제 표준화 동향.pdf",
     "참고자료/제로트러스트_가이드라인_2.0.pdf",
     "참고자료/제로트러스트 가이드라인, 새로운 사이버 보안 전략의 시작.pdf",
     "무제 1",
     "0. 제로트러스트 환경에 대한 정보보호대책의 수립",
-    "참고자료/NIST.SP.800-207.pdf",
-    "참고자료/Forrester_zero_trust_DNA.pdf",
-    "참고자료/제로트러스트동향분석및기업보안강화연구.pdf",
     "무제 1.canvas"
   ]
 }
